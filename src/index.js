@@ -47,6 +47,16 @@ const user = (
     />
   </div>
 );
+
+const techImage = (
+  <div>
+    <img
+      className="tech-image"
+      src="https://github.com/Asabeneh/30-Days-Of-React/raw/master/images/frontend_technologies.png"
+      alt=""
+    />
+  </div>
+);
 const yearBorn = 1996;
 const currentYear = new Date().getFullYear();
 const age = currentYear - yearBorn;
@@ -94,6 +104,7 @@ const app = (
     {main}
     {footer}
     {user}
+    {techImage}
   </div>
 );
 
