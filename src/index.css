@@ -7,20 +7,30 @@
   font-family: Helvetica Neue;
   padding: 25px;
   line-height: 1.5;
+  border-radius: 10px;
+  margin: 5px;
 }
 
 .main-wrapper {
   background-color: #f3f0f5;
+  border-radius: 10px;
+  padding: 3px;
+  margin: 5px;
 }
 
 .footer-wrapper {
   background-color: #61dbfb;
+  text-align: center;
+  padding: 2px;
+  border-radius: 10px;
+  margin: 5px;
 }
 
 .user-image {
   border-radius: 50%;
-  width: 250px;
-  height: 250px;
+  width: 350px;
+  height: 350px;
+  border: 5px solid white;
 }
 
 .tech-image {
@@ -29,4 +39,55 @@
   justify-content: center;
   align-items: center;
   width: 1150px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.user-input {
+  background-color: #61dbfb;
+  padding: 25px;
+  font-family: Helvetica Neue;
+  text-align: center;
+  line-height: 1.5;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.input {
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.subscribe {
+  width: 250px;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(235, 136, 136);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.userCard {
+  font-family: Helvetica Neue;
+  background-color: #f3f4ed;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.joined {
+  margin: 10px;
+}
+
+span {
+  padding: 5px;
+  background-color: #61dbfb;
+  margin: 5px;
+  border-radius: 5px;
 }
