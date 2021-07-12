@@ -91,3 +91,47 @@ span {
   margin: 5px;
   border-radius: 5px;
 }
+
+.colors {
+  margin: 5px;
+  color: white;
+  font-family: Helvetica Neue;
+}
+
+.lightblue {
+  background-color: #518cef;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 2px;
+}
+.secondColor {
+  background-color: #3b10c4;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 2px;
+}
+.thirdColor {
+  background-color: #9aede6;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+.fourthColor {
+  background-color: #8ee763;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+.fifthColor {
+  background-color: #a30dd0;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 2px;
+}

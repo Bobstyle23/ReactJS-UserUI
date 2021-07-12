@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Techs from "./components/Techs";
 import UserInput from "./components/UserInput";
 import UserCard from "./components/UserCard";
+import Colors from "./components/Colors";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Techs />
       <UserInput />
       <UserCard />
+      <Colors />
     </div>
   );
 }
