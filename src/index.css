@@ -135,3 +135,20 @@ span {
   border-radius: 5px;
   margin: 2px;
 }
+
+.userDetails {
+  font-family: Helvetica Neue;
+  margin: 5px;
+  padding: 10px;
+  background-color: #61dbfb;
+  border-radius: 5px;
+  color: white;
+}
+.contacts {
+  font-family: Helvetica Neue;
+  background-color: #61dbfb;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
