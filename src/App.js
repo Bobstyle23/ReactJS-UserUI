@@ -7,6 +7,7 @@ import UserCard from "./components/UserCard";
 import Colors from "./components/Colors";
 import User from "./components/User";
 import UserContact from "./components/UserContact";
+import Mapping from "./components/Mapping";
 
 function App() {
   return (
